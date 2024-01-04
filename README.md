@@ -13,3 +13,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+ :smirk_cat: Currently working on: DS&A :smirk_cat:
+:kissing_cat: Hobbies: Video Games, Manga, Snowboarding, Skateboarding, Magic the Gathering :kissing_cat:
+ :smile_cat: Please reach out! Always open to talk about code, interests, or opportunities! :smile_cat:
+
