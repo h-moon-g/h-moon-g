@@ -37,5 +37,5 @@
 Video Games, Manga, Snowboarding, Skateboarding, Magic the Gathering
 </p>
 <h3 align="center">
- 😸Please reach out! Always open to talk about code, interests, or opportunities!😸
+ 😸 Please reach out! Always open to talk about code, interests, or opportunities! 😸
 </h3>
