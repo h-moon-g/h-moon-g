@@ -13,8 +13,28 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
- :smirk_cat: Currently working on: DS&A :smirk_cat:
-:kissing_cat: Hobbies: Video Games, Manga, Snowboarding, Skateboarding, Magic the Gathering :kissing_cat:
- :smile_cat: Please reach out! Always open to talk about code, interests, or opportunities! :smile_cat:
-
+ <h3 align="center">
+:smirk_cat: Currently working on: :smirk_cat:
+</h3>
+<p align="center">
+	DS&A
+</p>
+ <h3 align="center">
+:smiley_cat: Interested in learning: :smiley_cat:
+</h3>
+<p align="center">
+	TypeScript
+</p>
+ <h3 align="center">
+:kissing_cat: Hobbies: :kissing_cat:
+</h3>
+<p align="center">
+Video Games, Manga, Snowboarding, Skateboarding, Magic the Gathering
+</p>
+<h3 align="center">
+:smile_cat: Please reach out! Always open to talk about code, interests, or opportunities! :smile_cat:
+</h3>
