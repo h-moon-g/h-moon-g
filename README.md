@@ -28,7 +28,7 @@
 :smiley_cat: Interested in learning: :smiley_cat:
 </h3>
 <p align="center">
-	TypeScript
+	TypeScript / C++
 </p>
  <h3 align="center">
 :kissing_cat: Hobbies: :kissing_cat:
