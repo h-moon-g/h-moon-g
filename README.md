@@ -22,7 +22,7 @@
 :smirk_cat: Currently working on: :smirk_cat:
 </h3>
 <p align="center">
-	DS&A
+	DS&A / Expanding Lotusfield Search Feature
 </p>
  <h3 align="center">
 :smiley_cat: Interested in learning: :smiley_cat:
